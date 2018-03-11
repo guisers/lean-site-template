@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Local EA Website</title>
+    <link>http://ea.crystal.to/de/</link>
+    <description>Recent content on Local EA Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 27 Dec 2017 02:15:52 -0800</lastBuildDate>
+    
+	<atom:link href="http://ea.crystal.to/de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FAQ GERMAN</title>
+      <link>http://ea.crystal.to/de/faq/</link>
+      <pubDate>Wed, 27 Dec 2017 02:15:52 -0800</pubDate>
+      
+      <guid>http://ea.crystal.to/de/faq/</guid>
+      <description>Frequently Asked GERMAN Questions 
+So what is effective altruism? The core idea:
+Effective altruism is using evidence and analysis to take actions that help others as much as possible.
+The world has a lot of horrible problems but we can’t work on them all at once. Our goal is to accomplish the most good for the world with our limited time, energy, and resources.
+There is a lot of agreement among people in the movement about what questions we should ask when figuring out what will help others the most.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://ea.crystal.to/de/_footer-left/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ea.crystal.to/de/_footer-left/</guid>
+      <description> More on EA IN GEERERRMAN  Intro to effective altruism Video: The Why and How of Effective Altruism Giving 101: The Basics Doing Good Better by Will MacAskill Centre for Effective Altruism  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://ea.crystal.to/de/homepage/_first_section_text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ea.crystal.to/de/homepage/_first_section_text/</guid>
+      <description>yeah thing in german</description>
+    </item>
+    
+  </channel>
+</rss>

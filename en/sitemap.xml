@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://ea.crystal.to/organizations/</loc>
+    <lastmod>2017-12-28T15:58:33-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ea.crystal.to/effective-altruism/</loc>
+    <lastmod>2017-12-28T15:58:29-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ea.crystal.to/key-terms/</loc>
+    <lastmod>2017-12-28T15:58:20-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ea.crystal.to/reading-material/</loc>
+    <lastmod>2017-12-28T15:58:15-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ea.crystal.to/contact/</loc>
+    <lastmod>2017-12-27T02:15:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ea.crystal.to/faq/</loc>
+    <lastmod>2017-12-27T02:15:52-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://ea.crystal.to/de/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ea.crystal.to/faq/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://ea.crystal.to/_footer-left/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://ea.crystal.to/de/_footer-left/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ea.crystal.to/_footer-left/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://ea.crystal.to/_footer-right/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ea.crystal.to/</loc>
+    <lastmod>2017-12-28T15:58:33-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://ea.crystal.to/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ea.crystal.to/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://ea.crystal.to/homepage/_first_section_text/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://ea.crystal.to/de/homepage/_first_section_text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ea.crystal.to/homepage/_first_section_text/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://ea.crystal.to/homepage/_second_section_text/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ea.crystal.to/homepage/_third_section_text/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ea.crystal.to/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://ea.crystal.to/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ea.crystal.to/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://ea.crystal.to/homepage/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://ea.crystal.to/de/homepage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ea.crystal.to/homepage/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://ea.crystal.to/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://ea.crystal.to/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ea.crystal.to/tags/"
+                />
+  </url>
+  
+</urlset>
